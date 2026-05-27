@@ -10,9 +10,9 @@ Last updated: 2026-05-27
 
 ## 1. Overview
 
-Resume Generator is an AI-assisted career and workplace service focused on resume review, resume rewriting, job-application optimization, professional writing, product thinking, and marketing communication support.
+Resume Generator is an AI-assisted career and workplace tool focused on resume review, resume rewriting, job-application optimization, professional writing, product thinking, and marketing communication support.
 
-This privacy policy explains what information may be processed when users interact with this Agent and how that information may be used.
+This privacy policy explains how data is handled when users run this Agent in their own local environment.
 
 ## 2. What This Agent Does
 
@@ -23,6 +23,8 @@ This Agent helps users improve job-search and workplace materials, including:
 - bullet-point rewriting
 - professional writing improvement
 - role positioning and narrative packaging
+
+This Agent is intended to be used by the user in their own local agent environment, rather than as a creator-operated managed service.
 
 ## 3. Information Users May Provide
 
@@ -37,7 +39,7 @@ Users should avoid submitting highly sensitive personal information unless it is
 
 ## 4. How Information Is Used
 
-User-provided information may be used to:
+User-provided information may be used locally by the Agent to:
 
 - review and improve resumes
 - rewrite bullets and summaries
@@ -45,19 +47,27 @@ User-provided information may be used to:
 - generate cleaner, stronger, and more relevant application materials
 - improve output quality during a session
 
+The creator of this Agent does not directly receive, review, collect, or store the user content that is processed locally in the user's own environment.
+
 ## 5. Third-Party Services
 
-This Agent may send user-provided content to third-party AI providers required to generate responses.
+This Agent may send user-provided content to third-party AI providers only if the user's own local setup is configured to use those providers for inference or related functionality.
 
 Current primary provider:
 
 - OpenAI
 
-Additional providers may be added in future versions if required to deliver related career and workplace services.
+Additional providers may be added in future versions if required to deliver related career and workplace functions. Any such processing would be governed by the user's own local configuration and the applicable third-party provider terms.
 
 ## 6. Data Retention
 
-User-submitted content is intended to be used only for delivering the requested service, except where retention is required for platform operation, compliance, debugging, security, or creator-requested follow-up workflows.
+The creator of this Agent does not intentionally collect or retain user-submitted content.
+
+Any temporary or persistent retention of content depends on:
+
+- the user's own local agent environment
+- the user's local files and logs
+- the behavior of any third-party model or API provider the user configures
 
 ## 7. User Responsibility
 
