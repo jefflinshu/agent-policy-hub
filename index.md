@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Capafy Policy Hub
+title: Agent Policy Hub
 permalink: /
 ---
 
-# Capafy Policy Hub
+# Agent Policy Hub
 
-This folder is intended to become a GitHub Pages-backed policy hub for Capafy Agents.
+This folder is intended to become a GitHub Pages-backed policy hub for public Agent policies.
 
 Suggested future URL pattern:
 
